@@ -12,7 +12,7 @@ section {
 }
 
 #hero {
-    background-image: url("../img/head-bg.png");
+    background-image: url("../img//28faf6993de4841588887606918bed96.jpg");
     background-attachment: fixed;
     padding-top: 150px;
     padding-bottom: 150px;
@@ -34,21 +34,25 @@ section {
 }
 
 #services {
-    background-color: rgb(225, 250, 250);
+    background-color: rgb(250, 231, 225);
 }
 
 #about {
-    background-image: url("../img/bg-1.png");
+    background-image: url("../img/96b80f7b74a5c201a9f342a70e32bf1c.jpg");
     background-attachment: fixed;
     background-size: cover;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
 }
 
 #contact {
-    background-color: rgb(225, 250, 250);
+    background-color: rgb(250, 234, 225);
 }
 
 #footer {
     color: aliceblue;
     padding: 20px 0px;
+}
+
+.navbar-brand {
+    color : rgb(121, 3, 3)
 }
